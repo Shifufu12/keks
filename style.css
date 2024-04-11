@@ -13,7 +13,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
 }
 
 header {
@@ -68,7 +68,7 @@ header nav a img {
 
 header .logo h2 {
     font-size: 25px;
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
 }
 
 main {
@@ -106,7 +106,7 @@ main .title h3 {
 
 main .title p {
     width: 50%;
-    color: rgb(195, 193, 193);
+    color: rgb(0, 0, 0);
 }
 
 main .buy {
